@@ -51,7 +51,7 @@ sig = "8B 81 18 11 00 00 83 F8 FF 74 ??"
 [0xCC79542C]
 name = "GetOrAddAppData"
 rva = "0x4DD720"
-sig = "89 54 24 10 48 83 EC ?? ?? ?? ?? A9 5D CD 00 48 89 6C 24 60 41 0F B6 E8"
+sig = "89 54 24 10 48 83 EC ?? 48 8B 05 ?? ?? ?? ?? 48 89 6C 24 ?? 41 0F B6 E8"
 
 [0x3B3A0F9D]
 name = "GetPackageInfo"
