@@ -127,3 +127,13 @@ sig = "48 89 5C 24 18 4C 89 4C 24 20 48 89 54 24 10 55 56 57 41 54 41 55 41 56 4
 name = "YldLoadDepotManifest"
 rva = "0x4EF450"
 sig = "48 89 6C 24 ? 56 41 54 41 55 41 56 41 57 48 83 EC 40 8B 41"
+
+[0x1317242A]
+name = "CPackageInfoSingle"
+rva = "0x18546D8"
+sig = ""
+
+[0xA70B6CB5]
+name = "CPackageInfoOffset"
+rva = "0x1348"
+sig = ""
